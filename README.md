@@ -1,6 +1,6 @@
 # Supply-Chain-Procurement
 ## ▶Objective
-● This project allows you to track and analyze your procurement purchase data at a single place giving valuable insights in your purchasing activities.
+● This project allows you to track and analyze procurement purchase data at a single place giving valuable insights in purchasing activities.
 
 ## ▶Tool
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/>
